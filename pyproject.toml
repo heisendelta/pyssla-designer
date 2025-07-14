@@ -1,0 +1,19 @@
+[project]
+name = "pyssla-designer"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "heisendelta",email = "ariya8.narayan7@outlook.jp"}
+]
+readme = "README.md"
+requires-python = ">=3.12,<3.13"
+dependencies = [
+    "jupyter (>=1.1.1,<2.0.0)",
+    "opencv-python (>=4.12.0.88,<5.0.0.0)",
+    "matplotlib (>=3.10.3,<4.0.0)"
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
