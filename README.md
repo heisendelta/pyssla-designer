@@ -41,3 +41,7 @@ We also count the number of beads necessary for each of the downscaling and quan
 
 We can also perform downscaling for the quantized image, as attempted in `segmenter_reverse.ipynb`, but this yields essentially the same results as the run without quantizing first.
 
+More info on the bead colors at the following links:
+- https://www.stitchfiddle.com/en/products/fuse-beads/2ttd9ai-iuf93h
+- http://www.pixelartshop.com/news/perlers-new-natural-colors-palette
+- https://beadseh.ca/perler-colour-list/
